@@ -3,6 +3,6 @@ djangular
 
 Ways to get angular working with djangorestframework
 
-cd demo
+cd djangular
 pip install -r requirements.txt
 python manage.py runserver
