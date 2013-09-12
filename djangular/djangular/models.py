@@ -2,11 +2,11 @@ from django.db import models
 from rest_framework import serializers
 
 CATEGORIES = (
-    ('Dairy', 'Dairy'),
-    ('Bread', 'Bread'),
-    ('Meat', 'Meat'),
-    ('Vegetable', 'Vegetable'),
-    ('Beverage', 'Beverage')
+    ('item1', 'item2'),
+    ('item3', 'item4'),
+    ('item5', 'item6'),
+    ('item7', 'item8'),
+    ('item9', 'item10')
 )
 
 
